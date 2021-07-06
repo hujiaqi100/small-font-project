@@ -13,6 +13,7 @@ export default
                 {
                     name: 'Select组件',
                     id: '1-2',
+                    treeNode: 'selectca',
                     parentId: '1',
                 },
             ]

@@ -12,7 +12,7 @@ const Login = (props) => {
     const title = () => {
         return (
             <div className='title'>
-                王悦·天气晴
+                Small-dataQ
             </div>
         )
     }
